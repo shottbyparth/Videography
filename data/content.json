@@ -1,0 +1,74 @@
+{
+  "site": {
+    "name": "Shottbyparth",
+    "tagline": "Videographer & Creative Director",
+    "heroVideoUrl": "YOUR_GOOGLE_DRIVE_VIDEO_EMBED_URL",
+    "heroSubtext": "Every frame tells a story"
+  },
+  "sections": [
+    {
+      "id": "drone",
+      "label": "DRONE",
+      "coverImage": "https://images.unsplash.com/photo-1508444845599-5c89863b1c44?w=1200",
+      "description": "Aerial cinematography from above",
+      "subsections": [
+        {
+          "id": "drone-events",
+          "label": "Events",
+          "videos": []
+        },
+        {
+          "id": "drone-nature",
+          "label": "Nature & Landscape",
+          "videos": []
+        },
+        {
+          "id": "drone-urban",
+          "label": "Urban & City",
+          "videos": []
+        }
+      ]
+    },
+    {
+      "id": "videography",
+      "label": "VIDEOGRAPHY",
+      "coverImage": "https://images.unsplash.com/photo-1598387993441-a364f854c3e1?w=1200",
+      "description": "Cinematic stories crafted on the ground",
+      "subsections": [
+        {
+          "id": "vid-model",
+          "label": "Model Shoot",
+          "videos": []
+        },
+        {
+          "id": "vid-wedding",
+          "label": "Weddings",
+          "videos": []
+        },
+        {
+          "id": "vid-commercial",
+          "label": "Commercial",
+          "videos": []
+        },
+        {
+          "id": "vid-celebs",
+          "label": "Celebs Edit",
+          "videos": []
+        },
+        {
+          "id": "vid-events",
+          "label": "Events",
+          "videos": []
+        }
+      ]
+    }
+  ],
+  "social": {
+    "instagram": "https://www.instagram.com/shottbyparth",
+    "youtube": "https://www.youtube.com/@shottbyparth"
+  },
+  "contact": {
+    "email": "your@email.com",
+    "formspreeId": "YOUR_FORMSPREE_ID"
+  }
+}
